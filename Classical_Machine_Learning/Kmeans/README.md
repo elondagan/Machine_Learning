@@ -1,7 +1,6 @@
-# K-means 
-(2020)
+# K-means (2020)
 
-Implement the K-means algorithm from scratch for classifying DNA samples (2020)
+Implement the K-means algorithm from scratch for classifying DNA samples 
 
 
 Description:
