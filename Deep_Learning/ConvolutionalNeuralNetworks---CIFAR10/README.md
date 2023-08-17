@@ -1,3 +1,3 @@
-# Implement a classifier for the CIFAR10 dataset (2022)
+# Implement a classifier for the CIFAR10 dataset (2023)
 
 full information can be found on README.pdf
